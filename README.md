@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi there! I'm Gizem Sarsınlar, a passionate AI developer and researcher. I specialize in building innovative AI-powered solutions, with a focus on deep learning, computer vision, and natural language processing.
 
-<!--
-**gizemsarsinlar/gizemsarsinlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 My Expertise
 
-Here are some ideas to get you started:
+- **Artificial Intelligence:** Developing and deploying AI models to solve real-world problems.
+- **Machine Learning:** Expertise in supervised and unsupervised learning, feature engineering, and model optimization.
+- **Deep Learning:** Experience with neural networks, including CNNs, RNNs, and transformers.
+- **Computer Vision:** Skilled in image processing, object detection, and scene understanding.
+- **Natural Language Processing:** Proficient in text analysis, language models, and conversational AI.
+- **Python Development:** Strong command of Python and its libraries, including TensorFlow, PyTorch, OpenCV, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+
+### [Document AI Chat Agent](https://huggingface.co/spaces/gizemsarsinlar/Document_AI_Agent)
