@@ -12,3 +12,4 @@
 ## 💻 Projects
 
 ### [Document AI Chat Agent](https://huggingface.co/spaces/gizemsarsinlar/Document_AI_Agent)
+### [Analyzing Car Review with LLMs](https://github.com/gizemsarsinlar/Analyzing-Car-Reviews-with-LLMs)
